@@ -1,6 +1,23 @@
-description: AV research
-
+title: Reuben Tamakloe, PhD
+email: drtamakloe@uos.ac.kr
+#author:
+#name: "Reuben Tamakloe"
+#email: drtamakloe@uos.ac.kr
+description: University of Seoul (2022)
+affiliation: University of Seoul (2022)
 show_downloads: false
 
 #Theme setup
 theme: minima
+
+
+
+# Google Analytics
+google_analytics: G-G58P7X4Y1K
+google_analytics: G-5QZTXXTGW4
+
+
+# Minima social links
+linkedin_username: drtamakloe
+instagram_username: drtamakloe
+twitter_username: drtamakloe
