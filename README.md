@@ -1,10 +1,5 @@
 
-
-
-
-
-
-
+This page provides information regarding autonomous vehicle research currently in progress.
 
 Flags Counter<script type="text/javascript" src="//cdn.livetrafficfeed.com/static/flag-counter/live.v2.js"></script>Flags CounterSEO audit tools
 
